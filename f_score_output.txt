@@ -1,0 +1,12 @@
+assignment5_output_full_ver.txt : 0.36017759516440623
+assignment6_output_full_ver.txt : 0.24227060919080629
+project_output_0.1_1.txt : 0.31156064187493343
+project_output_0.1_2.txt : 0.4228708536912391
+project_output_0.25_1.txt : 0.29263100481846743
+project_output_0.25_2.txt : 0.4373081679246185
+project_output_0.5_1.txt : 0.2503516235928836
+project_output_0.5_2.txt : 0.43631540875751607
+project_output_0.75_1.txt : 0.21567314567247514
+project_output_0.75_2.txt : 0.3998482740632526
+project_output_0.9_1.txt : 0.22298408855881946
+project_output_0.9_2.txt : 0.4013740362261
