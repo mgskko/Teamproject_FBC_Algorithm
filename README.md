@@ -1,5 +1,5 @@
 
-# FBS(Friend-Base-Clustering) Algorithms for Graph Data
+# FBC(Friend-Base-Clustering) Algorithms for Graph Data
 
 
 ## Background
